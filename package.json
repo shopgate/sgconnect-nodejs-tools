@@ -1,5 +1,5 @@
 {
-  "name": "sgconnect-nodejs-tools",
+  "name": "@hxagon/sgconnect-nodejs-tools",
   "version": "0.1.0",
   "description": "Collection of useful functions for extension development",
   "main": "tools.js",
